@@ -1,0 +1,2 @@
+# StaticFramework
+Carthage StaticFramework
